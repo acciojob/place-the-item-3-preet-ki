@@ -1,56 +1,35 @@
 
-/* Your CSS Code here. */
-
-/* Your CSS Code here. */
-.holder{
-    background-color: rgb(43, 28, 6) ;
-    border: 1px solid rgb(23, 177, 154);
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content:space-around;
-    
- }
- .first{
-     background-color:red ;
-     width: 200px;
-     height:40px;
- }
-     .second{
-         background-color: blue;
-         width: 200px;
-         height: 40px;
-     }
-     .third{
      
 /* Your CSS Code here. */
 .holder{
     background-color: rgb(43, 28, 6) ;
     border: 1px solid rgb(23, 177, 154);
-    width: 100%;
+    width: 1000px;
     height: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     
+    
  }
  .first{
      background-color:red ;
-     width: 200px;
+     width: 300px;
      height:40px;
  }
      .second{
          background-color: blue;
-         width: 200px;
+         width: 300px;
          height: 40px;
      }
      .third{
      background-color:green;
-     width: 200px;
+     width: 300px;
      height: 40px;
  }
- }
+ 
  .forth{
-
+    background-color:rgb(183, 35, 164);
+    width: 300px;
+    height: 40px;
  }
