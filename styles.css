@@ -8,7 +8,7 @@
     height: 100%;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
     
     
  }
@@ -28,8 +28,3 @@
      height: 40px;
  }
  
- .forth{
-    background-color:rgb(183, 35, 164);
-    width: 300px;
-    height: 40px;
- }
